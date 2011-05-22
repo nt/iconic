@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "iconic"
   gem.homepage = "http://github.com/nt/iconic"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "SVG iconic images bundle"
+  gem.description = "Enables to include easily a library of sexy svg icons"
   gem.email = "ni.thiebaud@gmail.com"
   gem.authors = ["Nicolas Thiébaud"]
   # dependencies defined in Gemfile
