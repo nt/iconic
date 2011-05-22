@@ -1,5 +1,3 @@
-require 'active_admin/iconic/icons'
-
 module Iconic
 
   # Default color to use for icons
