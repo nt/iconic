@@ -1,6 +1,7 @@
 = iconic
 
-Description goes here.
+This gem packages the Iconic Icons found here: http://somerandomdude.com/projects/iconic/
+in the exact same fashion as ActiveAdmin does https://github.com/gregbell/active_admin/tree/master/lib/active_admin
 
 == Contributing to iconic
  
