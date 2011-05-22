@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "iconic.gemspec",
     "lib/iconic.rb",
     "test/helper.rb",
     "test/test_iconic.rb"
